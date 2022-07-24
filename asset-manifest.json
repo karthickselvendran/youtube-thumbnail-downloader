@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/youtube-thumbnail-downloader/static/css/main.b36be09f.chunk.css",
+    "main.js": "/youtube-thumbnail-downloader/static/js/main.88818e0d.chunk.js",
+    "main.js.map": "/youtube-thumbnail-downloader/static/js/main.88818e0d.chunk.js.map",
+    "runtime-main.js": "/youtube-thumbnail-downloader/static/js/runtime-main.bd46c9ee.js",
+    "runtime-main.js.map": "/youtube-thumbnail-downloader/static/js/runtime-main.bd46c9ee.js.map",
+    "static/js/2.60dd7181.chunk.js": "/youtube-thumbnail-downloader/static/js/2.60dd7181.chunk.js",
+    "static/js/2.60dd7181.chunk.js.map": "/youtube-thumbnail-downloader/static/js/2.60dd7181.chunk.js.map",
+    "index.html": "/youtube-thumbnail-downloader/index.html",
+    "static/css/main.b36be09f.chunk.css.map": "/youtube-thumbnail-downloader/static/css/main.b36be09f.chunk.css.map",
+    "static/js/2.60dd7181.chunk.js.LICENSE.txt": "/youtube-thumbnail-downloader/static/js/2.60dd7181.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd46c9ee.js",
+    "static/js/2.60dd7181.chunk.js",
+    "static/css/main.b36be09f.chunk.css",
+    "static/js/main.88818e0d.chunk.js"
+  ]
+}
