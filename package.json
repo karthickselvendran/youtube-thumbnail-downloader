@@ -6,6 +6,8 @@
   "main": "src/index.js",
   "homepage": "https://karthickselvendran.github.io/youtube-thumbnail-downloader",
   "dependencies": {
+    "axios": "^0.27.2",
+    "file-saver": "^2.0.5",
     "react": "18.0.0",
     "react-dom": "18.0.0",
     "react-scripts": "4.0.0",
